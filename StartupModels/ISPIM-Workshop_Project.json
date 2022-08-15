@@ -14433,6 +14433,26 @@
               "valueset": null,
               "copiedFromId": "",
               "text": ""
+            },
+            {
+              "id": "81fdddf8-b566-4c00-d480-710442c404f0",
+              "name": "Testsf2Role",
+              "description": "",
+              "abstract": false,
+              "viewkind": "",
+              "typeRef": "5237d07b-38e0-407d-1deb-4ed4e09c5e15",
+              "typeName": "Role",
+              "propertyValues": [],
+              "markedAsDeleted": false,
+              "generatedTypeId": "",
+              "modified": true,
+              "nameId": "Role",
+              "category": "Object",
+              "sourceUri": "",
+              "relshipkind": "Association",
+              "valueset": null,
+              "copiedFromId": "",
+              "text": ""
             }
           ],
           "relships": [
@@ -16507,8 +16527,30 @@
                   "text": ""
                 },
                 {
-                  "scale": null,
-                  "memberscale": null
+                  "scale": 1,
+                  "memberscale": 1,
+                  "id": "8c370aa5-16d7-4f27-0740-3027f46a9d73",
+                  "name": "Testsf2Role",
+                  "description": "",
+                  "objectRef": "81fdddf8-b566-4c00-d480-710442c404f0",
+                  "typeviewRef": "497fbf77-2d40-4ff3-bef7-32e03ba75308",
+                  "group": "a00e5ee2-a7cd-45ca-be9c-22b8fc3b26c9",
+                  "viewkind": "Object",
+                  "isGroup": false,
+                  "isCollapsed": false,
+                  "loc": "-1000 -70",
+                  "size": "",
+                  "markedAsDeleted": false,
+                  "modified": true,
+                  "template": "textAndIcon",
+                  "figure": "",
+                  "geometry": "",
+                  "fillcolor": "",
+                  "strokecolor": "",
+                  "strokewidth": "1",
+                  "textcolor": "",
+                  "icon": "",
+                  "text": ""
                 }
               ],
               "relshipviews": [
@@ -27269,5 +27311,5 @@
     }
   },
   "phSource": "ISPIM-Workshop-New_Project_2022-07-19.json",
-  "lastUpdate": "2022-08-15T14:12:47.400Z"
+  "lastUpdate": "2022-08-15T15:04:24.855Z"
 }
