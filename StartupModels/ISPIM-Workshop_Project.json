@@ -2,7 +2,7 @@
   "phData": {
     "metis": {
       "name": "ISPIM-Workshop-New",
-      "description": "ISPIM demo project",
+      "description": "ISPIM demo testen project",
       "metamodels": [
         {
           "id": "28362053-7550-453a-c580-5571b10780da",
@@ -13594,7 +13594,7 @@
             },
             {
               "id": "3dc2adf2-6326-4483-b3a4-4114f23d469b",
-              "name": "MechanicÅ tasks",
+              "name": "MechanicÃÂ tasks",
               "description": "",
               "text": "",
               "abstract": false,
@@ -17628,7 +17628,7 @@
               "objectviews": [
                 {
                   "id": "fdac81d8-f8b0-4564-86c4-6f7be473159d",
-                  "name": "MechanicÅ tasks",
+                  "name": "MechanicÃÂ tasks",
                   "description": "",
                   "objectRef": "3dc2adf2-6326-4483-b3a4-4114f23d469b",
                   "typeviewRef": "a3112875-e4fe-4100-b290-5634d8b8acfc",
@@ -24243,7 +24243,7 @@
               "valueset": null,
               "copiedFromId": "",
               "vehicleId": "VH-001",
-              "rentalPrice": "1â¬",
+              "rentalPrice": "1Ã¢ÂÂ¬",
               "brand": "Segway",
               "model": "E-200",
               "year model": "2020",
@@ -24292,7 +24292,7 @@
               "valueset": null,
               "copiedFromId": "",
               "vehicleId": "VH-003",
-              "rentalPrice": "3â¬"
+              "rentalPrice": "3Ã¢ÂÂ¬"
             },
             {
               "id": "221df94e-f7ef-4509-ce2a-38c91adedb78",
@@ -24314,7 +24314,7 @@
               "valueset": null,
               "copiedFromId": "",
               "vehicleId": "VH-004",
-              "rentalPrice": "2â¬"
+              "rentalPrice": "2Ã¢ÂÂ¬"
             },
             {
               "id": "99880796-1869-46c2-771d-1ee1d8737016",
@@ -27311,5 +27311,5 @@
     }
   },
   "phSource": "ISPIM-Workshop-New_Project_2022-07-19.json",
-  "lastUpdate": "2022-08-15T15:04:24.855Z"
+  "lastUpdate": "2022-08-16T14:55:43.296Z"
 }
