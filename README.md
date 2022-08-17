@@ -2,17 +2,16 @@
 
 ## Introduction
 
-AKM Modelling can be done as a individual task with models stored in local Project.json files.
-It can also be done as a collaborate task with several team members.
-
-Project.json files can be saved
-
-- locally on your computer (PC) and loaded in the AKM Modeller when needed.
-- globally in a GitHub repository and loaded in the AKM Modeller when needed.
+AKM Modelling can be done locally with models stored in local Project.json files.
+AKM Modelling can also be done as a collaborate task with several team members with Project.json files stored in a GitHub repository.
 
 ## Lets get started
 
-Start AKM Modeller by selecting "Modelling" in the top menu.
+Open the webpage:  
+
+<https://akmclient-beta.herokuapp.com/modelling> latest version with newest features
+
+<https://akmclient.herokuapp.com/modelling> previous more tested version
 
 ---
 
