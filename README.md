@@ -67,9 +67,7 @@ The file will default be saved in Download folder as the "Projectname"_project_"
 
 </details>
 
-### Upload to GitHub repository
-
-#### Upload the project file
+## 4. Upload the project file to GitHub repository
 
 <details><summary markdown="span">Go to the GitHub repository, and open the model folder <code> Open the model folder </code> </summary>
 
