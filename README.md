@@ -38,8 +38,9 @@ Click on "GitHub" button to open the dialog for GitHub repository and fill in th
 
 - Repository URL:  <https://api.github.com/users/UserName/repos/>
 
-
 then click on: "LIST MODELS" button and then select a model in the "Select Model" dropdown list.
+
+(The list is from the **main** branch of the repository.)
 
 The model will be loaded in AKM Modeller.
 
