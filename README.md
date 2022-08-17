@@ -49,9 +49,7 @@ The file will default be saved in Download folder as the "Projectname"_project_"
 Click on "GitHub" button to open the dialog for GitHub repository and fill in the required fields.
 
 - Repository URL:  <https://api.github.com/users/UserName/repos/>
-- Repository name: RepositoryName
-- Branch name:     Main (default and cannot be changed)
-- Model path:      Path/To/Model/Folder
+
 
 then click on: "LIST MODELS" button and then select a model in the "Select Model" dropdown list.
 
@@ -81,6 +79,7 @@ Navigate to the model folder (StartModels, Models etc. by opening the folder).
 
 <details><summary markdown="span">Open the Issues <code> Click "Issues" in the menu</code></summary>
 
+
 This will be used to keep track of the changes.
 
 Create a new issue in the GitHub repository by clicking on Issues in the menu.
@@ -90,6 +89,7 @@ Create a new issue in the GitHub repository by clicking on Issues in the menu.
 </details>
 
 <details><summary markdown="span">Create a "New Issue" <code> Click "New Issue" button</code></summary>
+
 
 Click on the "New Issue" button.
 
@@ -102,6 +102,7 @@ Click on the "New Issue" button.
 <details><summary markdown="span">Name and submit the Issue ...  <code> Type in Name (and description) </code></summary>
 
 Type a name and description for the issue in the "Title" and "Description" field.
+
 
 then click on the "Submit New Issue" button.
 
@@ -131,6 +132,7 @@ Click on the "Create branch" button.
 
 <details><summary markdown="span">Checkout the branch  <code> (only if local repository)</code> (this step can be skipped)</summary>
 
+
 (If you want to clone to a local repository you can copy these two lines and execute them in your terminal.)
 
 ![Add file](./img/CheckoutLocalBranch.png)
@@ -148,6 +150,7 @@ In the following we will use the upload file function to upload the model projec
 
 <details><summary markdown="span">Go to the GitHub repository, your branch and into the model folder <code> Select branch (not main or master)</code></summary>
 
+
 Select the branch you created the last step in 2.2.1.
 
 ![Code.png](./img/ChooseBranch.png)
@@ -156,6 +159,7 @@ Select the branch you created the last step in 2.2.1.
 
 <details><summary markdown="span">Upload file (the updated model project.json)  <code> Drag or select file to upload and click "Commit changes" </code></summary>
 
+
 Drag in file and click "Commit changes" button.
 
 ![Code.png](./img/DraginFiles.png)
@@ -163,6 +167,7 @@ Drag in file and click "Commit changes" button.
 </details>
 
 <details><summary markdown="span">Compare and Pull request <code> Click "Compare & pull request" button.</code></summary>
+
 
 Click "Compare & pull request" button.
 
@@ -184,6 +189,7 @@ As you see this will create a pull request for the uploaded model project file f
 
 (Add a comment and) Click "Confirm merge" button.
 
+
 ![Code.png](./img/ConfirmeMergeOfUploadedProject.png)
 
 </details>
@@ -203,3 +209,4 @@ Your branch which was created for the upload of the model project file can be de
 ![Code.png](./img/SuccessfullyMerged.png)
 
 </details>
+
