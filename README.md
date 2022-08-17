@@ -33,6 +33,7 @@ The selected file will be loaded in the AKM Modeller.
 or
 
 <details><summary markdown="span">Open GitHub repository AKM project files in AKM Modeller: <code> Click on: "GitHub" button</code></summary>
+..
 
 Click on "GitHub" button to open the dialog for GitHub repository and fill in the required fields.
 
@@ -52,11 +53,11 @@ Click on "X" button in the top right corner to close the GitHub repository selec
 
 ---
 
-## 2. To save project files
+## 2. Work with your model project
 
----
+After updating your model project, you can save it locally.
 
-### Save to Local file
+## 3. Save your model project to Local file
 
 <details><summary markdown="span">To save local project files: <code> Click on: "Save" button</code></summary>
 
@@ -66,9 +67,7 @@ The file will default be saved in Download folder as the "Projectname"_project_"
 
 </details>
 
----
-
-### Save to GitHub repository
+### Upload to GitHub repository
 
 #### Upload the project file
 
