@@ -7,7 +7,7 @@ AKM Modelling can also be done as a collaborate task with several team members w
 
 ## Lets get started
 
-(you can duplicate this browsertab and move it on the side, to have it avaiable when doing the procedure)
+(Tip: You can duplicate this browsertab and move it on the side, to have it avaiable when doing the procedure)
 
 Open the webpage:  
 
